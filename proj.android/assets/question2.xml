@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<dict>
+	    <key>question_01</key>
+	    <string>請將紅色方塊按從小到大的順序排列在左上角！</string>
+	    <key>question_02</key>
+	    <string>請將蓝色方塊按從小到大的順序排列在左上角！</string>
+	    <key>question_03</key>
+	    <string>請將绿色方塊按從小到大的順序排列在左上角！</string>
+	
+	
+		          <key>answerNumber_01</key>
+					<string>1</string>
+					<key>maxNumber_01</key>
+					<string>6</string>
+					<key>minNumber_01</key>
+					<string>3</string>
+		           
+		           <key>answerNumber_02</key>
+					<string>2</string>
+					<key>maxNumber_02</key>
+					<string>7</string>
+					<key>minNumber_02</key>
+					<string>4</string>
+
+		           <key>answerNumber_03</key>
+					<string>3</string>
+					<key>maxNumber_03</key>
+					<string>8</string>
+					<key>minNumber_03</key>
+					<string>5</string>
+		           
+		           <key>answerNumber_04</key>
+					<string>4</string>
+					<key>maxNumber_04</key>
+					<string>9</string>
+					<key>minNumber_04</key>
+					<string>6</string>
+		 
+		           <key>answerNumber_05</key>
+					<string>5</string>
+					<key>maxNumber_05</key>
+					<string>10</string>
+					<key>minNumber_05</key>
+					<string>7</string>
+</dict>
