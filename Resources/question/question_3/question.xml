@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Node>
+    	<question>請選出藍色方塊！</question>
+	<kind>easy</kind>
+	<levels>
+		<level id="1">
+			<answerNumber>1</answerNumber>
+			<maxNumber>8</maxNumber>
+			<minNumber>4</minNumber>
+		</level>
+		<level id="2">
+			<answerNumber>2</answerNumber>
+			<maxNumber>9</maxNumber>
+			<minNumber>5</minNumber>
+		</level>
+		<level id="3">
+			<answerNumber>3</answerNumber>
+			<maxNumber>10</maxNumber>
+			<minNumber>6</minNumber>
+		</level>	
+		<level id="4">
+			<answerNumber>4</answerNumber>
+			<maxNumber>11</maxNumber>
+			<minNumber>7</minNumber>
+		</level>
+		<level id="5">
+			<answerNumber>5</answerNumber>
+			<maxNumber>12</maxNumber>
+			<minNumber>8</minNumber>
+		</level>
+	</levels>
+</Node>

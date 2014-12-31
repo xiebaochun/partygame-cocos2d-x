@@ -1,0 +1,28 @@
+<dict>
+        <key>HomeScene</key>
+		<string>首頁</string>
+	<key>MainScene</key>
+		<string>主頁</string>
+	<key>BookScene</key>
+		<string>百科</string>
+	<key>GameScene</key>
+		<string>遊戲</string>
+	<key>AnimScene</key>
+		<string>動畫</string>
+	<key>FOgameScene</key>
+		<string>力的作用</string>
+	<key>FOgameScene_Book</key>
+		<string>力的作用 - 百科</string>
+	<key>FOgameScene_Game</key>
+		<string>力的作用 - 遊戲</string>
+	<key>FOgameScene_Anim</key>
+		<string>力的作用 - 動畫</string>
+	<key>GVScene</key>
+		<string>地球引力</string>
+	<key>GVScene_Book</key>
+		<string>地球引力 - 百科</string>
+	<key>GVScene_Game</key>
+		<string>地球引力 - 遊戲</string>
+	<key>GVScene_Anim</key>
+		<string>地球引力 - 動畫</string>
+</dict>

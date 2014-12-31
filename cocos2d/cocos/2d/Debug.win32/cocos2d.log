@@ -1,0 +1,33 @@
+﻿Build started 12/31/2014 4:52:17 PM.
+     1>Project "E:\HitOne\cocos2d\cocos\2d\cocos2d.vcxproj" on node 2 (Build target(s)).
+     1>PreLinkEvent:
+         if not exist "E:\HitOne\proj.win32\Debug.win32\" mkdir "E:\HitOne\proj.win32\Debug.win32\"
+         xcopy /Y /Q "E:\HitOne\cocos2d\cocos\2d\..\..\external\freetype2\prebuilt\win32\*.*" "E:\HitOne\proj.win32\Debug.win32\"
+         xcopy /Y /Q "E:\HitOne\cocos2d\cocos\2d\..\..\external\glfw3\prebuilt\win32\*.*" "E:\HitOne\proj.win32\Debug.win32\"
+         xcopy /Y /Q "E:\HitOne\cocos2d\cocos\2d\..\..\external\curl\prebuilt\win32\*.*" "E:\HitOne\proj.win32\Debug.win32\"
+         xcopy /Y /Q "E:\HitOne\cocos2d\cocos\2d\..\..\external\jpeg\prebuilt\win32\*.*" "E:\HitOne\proj.win32\Debug.win32\"
+         xcopy /Y /Q "E:\HitOne\cocos2d\cocos\2d\..\..\external\png\prebuilt\win32\*.*" "E:\HitOne\proj.win32\Debug.win32\"
+         xcopy /Y /Q "E:\HitOne\cocos2d\cocos\2d\..\..\external\tiff\prebuilt\win32\*.*" "E:\HitOne\proj.win32\Debug.win32\"
+         xcopy /Y /Q "E:\HitOne\cocos2d\cocos\2d\..\..\external\webp\prebuilt\win32\*.*" "E:\HitOne\proj.win32\Debug.win32\"
+         xcopy /Y /Q "E:\HitOne\cocos2d\cocos\2d\..\..\external\win32-specific\zlib\prebuilt\*.*" "E:\HitOne\proj.win32\Debug.win32\"
+         xcopy /Y /Q "E:\HitOne\cocos2d\cocos\2d\..\..\external\win32-specific\icon\prebuilt\*.*" "E:\HitOne\proj.win32\Debug.win32\"
+         xcopy /Y /Q "E:\HitOne\cocos2d\cocos\2d\..\..\external\win32-specific\gles\prebuilt\*.*" "E:\HitOne\proj.win32\Debug.win32\"
+         
+         :VCEnd
+         1 File(s) copied
+         1 File(s) copied
+         2 File(s) copied
+         1 File(s) copied
+         1 File(s) copied
+         2 File(s) copied
+         1 File(s) copied
+         2 File(s) copied
+         2 File(s) copied
+         2 File(s) copied
+       Lib:
+         cocos2d.vcxproj -> E:\HitOne\proj.win32\Debug.win32\libcocos2d.lib
+     1>Done Building Project "E:\HitOne\cocos2d\cocos\2d\cocos2d.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.79
